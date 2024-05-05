@@ -10,7 +10,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
     - name: Run CV generation
-      uses: ./src # Uses an action in the root directory
+      uses: ./ # Uses an action in the root directory
 
     - name: Commit files
       id: commit
