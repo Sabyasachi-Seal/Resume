@@ -13,7 +13,7 @@ jobs:
       uses: xu-cheng/latex-action@v3
       with:
         texlive_version: ${{ matrix.texlive_version }}
-        root_file: test.tex
+        root_file: resume.tex
         working_directory: src/
         pre_compile: |
           rm resume.pdf
