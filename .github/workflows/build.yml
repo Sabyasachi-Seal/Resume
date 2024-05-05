@@ -9,8 +9,16 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
-    - name: Run CV generation
-      uses: ./ # Uses an action in the root directory
+    - name: Compile LaTeX document with pre/post compile actions
+      uses: xu-cheng/latex-action@v3
+      with:
+        texlive_version: ${{ matrix.texlive_version }}
+        root_file: test.tex
+        working_directory: src/
+        pre_compile: |
+          rm resume.pdf
+        post_compile: |
+          ls resume.pdf
 
     - name: Commit files
       id: commit
