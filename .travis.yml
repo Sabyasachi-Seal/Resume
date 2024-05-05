@@ -18,7 +18,7 @@ script:
 
 deploy:
   provider: releases
-  api_key: $GITHUB_TOKEN
+  api_key: $DEPLOY_TOKEN
   file: resume.pdf
   skip_cleanup: true
   on:
