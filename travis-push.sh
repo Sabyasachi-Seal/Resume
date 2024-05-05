@@ -6,4 +6,4 @@ git config --global user.name "Travis CI"
 git checkout -b master
 git add resume.png
 git commit --message "Travis build: $TRAVIS_BUILD_NUMBER" --message "[skip ci]"
-git push https://${GITHUB_TOKEN}@github.com/Sabyasachi-Seal/Resume.git HEAD:master --quiet
+git push https://${DEPLOY_TOKEN}@github.com/Sabyasachi-Seal/Resume.git HEAD:master --quiet
