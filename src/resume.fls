@@ -43,14 +43,14 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hycolor/hycolor.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hycolor/hycolor.sty
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/auxhook/auxhook.sty
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/auxhook/auxhook.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/generic/stringenc/stringenc.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/generic/stringenc/stringenc.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
