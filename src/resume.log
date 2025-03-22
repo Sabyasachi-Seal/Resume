@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.1)  22 MAR 2025 08:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.1)  22 MAR 2025 09:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -743,9 +743,9 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21912 strings out of 473201
- 413764 string characters out of 5718211
- 887819 words of memory out of 5000000
+ 21909 strings out of 473201
+ 413746 string characters out of 5718211
+ 881831 words of memory out of 5000000
  44812 multiletter control sequences out of 15000+600000
  563177 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -756,10 +756,10 @@ xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/
 texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/texdi
 r/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></opt/texlive/texdir/tex
 mf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on resume.pdf (1 page, 86594 bytes).
+Output written on resume.pdf (1 page, 83851 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 61 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
